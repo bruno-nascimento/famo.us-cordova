@@ -7,9 +7,8 @@ $ cordova create famous hello.world.famous Famous
 
 $ cd famous
 
--- colar o conteúdo www no www gerado pelo cordova --- 
+-- colar o conteúdo do repositório no diretório www gerado pelo cordova --- 
 
 $ cordova platform add android
 
 $ cordova run android
-
